@@ -8,6 +8,7 @@ The objective of this lab to help you gain a basic yet broad understanding of Az
 - Monitor your App Service performance & create alerts with Azure Logic Apps
 - Secure your app with Web Application Firewall 
 - Run CI/CD pipelines, including UI testing, with Azure Pipelines
+- Testing: Code coverage with Cobertura, UI Testing with Selenium
 - Integrate your app to a virtual network 
 
 **Prerequisites for this workshop:**
@@ -18,7 +19,6 @@ The objective of this lab to help you gain a basic yet broad understanding of Az
 - Git
 - A GitHub account (which by now assuming you already have!)
 
-**Difficulty level:** Azure 100-200 
 **Approximate time to complete all labs:** 4 hours
 
 The workshop leverages a sample .NET Core application using .NET SDK 5.x. (Upstream: https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy)
