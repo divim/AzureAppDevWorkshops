@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Tailspin.SpaceGame.Web.Tests
-build_property.ProjectDir = C:\Users\divimishra\OneDrive - Microsoft\Desktop\CSA Role\AzureAppServices\Tailspin.SpaceGame.Web.Tests\
+build_property.ProjectDir = C:\Users\divimishra\OneDrive - Microsoft\Desktop\App Innovation Workshops\AzureAppServices\Tailspin.SpaceGame.Web.Tests\

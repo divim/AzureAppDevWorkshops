@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "w3MotBCSoR/ceDoC6tKbcryCib5X8RKJpGqv5DR3fBDM6gIvZGGwaz20LFpedTcfAZiRvWQt5Nj/T/ePY7gOTg==",
+  "dgSpecHash": "KLmjRNvl1Twi02yvEGit/rkB0C3IKsAU4laY/kTS6gunF/h6OXL62sqe4gLkJsBWyQkCeVy1GTElEJA6HHjW9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\CSA Role\\AzureAppServices\\Tailspin.SpaceGame.Web.Tests\\Tailspin.SpaceGame.Web.Tests.csproj",
+  "projectFilePath": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.Web.Tests\\Tailspin.SpaceGame.Web.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\divimishra\\.nuget\\packages\\coverlet.msbuild\\3.1.0\\coverlet.msbuild.3.1.0.nupkg.sha512",
     "C:\\Users\\divimishra\\.nuget\\packages\\microsoft.codecoverage\\16.10.0\\microsoft.codecoverage.16.10.0.nupkg.sha512",
     "C:\\Users\\divimishra\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\divimishra\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",

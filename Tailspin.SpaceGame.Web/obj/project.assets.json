@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\CSA Role\\AzureAppServices\\Tailspin.SpaceGame.Web\\Tailspin.SpaceGame.Web.csproj",
+      "projectUniqueName": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.Web\\Tailspin.SpaceGame.Web.csproj",
       "projectName": "Tailspin.SpaceGame.Web",
-      "projectPath": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\CSA Role\\AzureAppServices\\Tailspin.SpaceGame.Web\\Tailspin.SpaceGame.Web.csproj",
+      "projectPath": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.Web\\Tailspin.SpaceGame.Web.csproj",
       "packagesPath": "C:\\Users\\divimishra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\CSA Role\\AzureAppServices\\Tailspin.SpaceGame.Web\\obj\\",
+      "outputPath": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
