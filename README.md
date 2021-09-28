@@ -1,5 +1,5 @@
 # Azure App Services
-This repository contains the lab document and the code required for the hands-on Azure App Services workshop. 
+This repository contains the [lab document](https://github.com/divim/AzureAppServices/blob/main/Lab%20document%20-%20App%20Services%20with%20Azure%20DevOps.pdf) and the code required for the hands-on Azure App Services workshop. 
 
 The objective of this lab to help you gain a basic yet broad understanding of Azure App Services while leveraging Microsoft Developer Cloud tools (GitHub, VS Code, Azure DevOps). The end result? To make you feel more comfortable and confident modernizing/developing applications with Azure App Services.
 
@@ -7,7 +7,8 @@ The objective of this lab to help you gain a basic yet broad understanding of Az
 - Deploy your apps on Azure App Service
 - Monitor your App Service performance & create alerts with Azure Logic Apps
 - Secure your app with Web Application Firewall 
-- Run CI/CD pipelines, including UI testing, with Azure Pipelines
+- Run CI/CD pipelines with Azure Pipelines
+- Test app: Code coverage with Cobertura, UI with Selenium
 - Integrate your app to a virtual network 
 
 **Prerequisites for this workshop:**
@@ -18,7 +19,6 @@ The objective of this lab to help you gain a basic yet broad understanding of Az
 - Git
 - A GitHub account (which by now assuming you already have!)
 
-**Difficulty level:** Azure 100-200 
 **Approximate time to complete all labs:** 4 hours
 
 The workshop leverages a sample .NET Core application using .NET SDK 5.x. (Upstream: https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy)
