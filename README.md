@@ -1,5 +1,5 @@
 # Azure App Services
-This repository contains the lab document and the code required for the hands-on Azure App Services workshop. 
+This repository contains the [lab document](https://github.com/divim/AzureAppServices/blob/main/Lab%20document%20-%20App%20Services%20with%20Azure%20DevOps.pdf) and the code required for the hands-on Azure App Services workshop. 
 
 The objective of this lab to help you gain a basic yet broad understanding of Azure App Services while leveraging Microsoft Developer Cloud tools (GitHub, VS Code, Azure DevOps). The end result? To make you feel more comfortable and confident modernizing/developing applications with Azure App Services.
 
