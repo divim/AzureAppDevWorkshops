@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.UITests\\Tailspin.SpaceGame.Web.UITests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.UITests\\Tailspin.SpaceGame.Web.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.UITests\\Tailspin.SpaceGame.Web.UITests.csproj",
+        "projectName": "Tailspin.SpaceGame.Web.UITests",
+        "projectPath": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.UITests\\Tailspin.SpaceGame.Web.UITests.csproj",
+        "packagesPath": "C:\\Users\\divimishra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\divimishra\\OneDrive - Microsoft\\Desktop\\App Innovation Workshops\\AzureAppServices\\Tailspin.SpaceGame.UITests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\divimishra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Edge.SeleniumTools": {
+              "target": "Package",
+              "version": "[3.141.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.10.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[91.0.4472.10100, )"
+            },
+            "Selenium.WebDriver.GeckoDriver": {
+              "target": "Package",
+              "version": "[0.29.1, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.11.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
