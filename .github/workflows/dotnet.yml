@@ -20,10 +20,8 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 5.0.x
-    - name: Restore dependencies
-      run: dotnet restore
     - name: Build
-      run: dotnet build --no-restore –-project AzureAppDevWorkshops/Azure App Service/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj
+      run: dotnet build --configuration Release –-project AzureAppDevWorkshops/Azure App Service/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj
     - name: Publish
-      run: dotnet publish -o AzureAppDevWorkshops/Azure App Service/Tailspin.SpaceGame.Web/publish
+      run: dotnet publish --configuration Release -o AzureAppDevWorkshops/Azure App Service/Tailspin.SpaceGame.Web/publish
 
