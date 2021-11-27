@@ -2,10 +2,13 @@ name: .NET
 
 on:
   push:
-    branches: [ main, divim-patch-1 ]
+    branches:
+    - main
+    - divim-patch-1
   pull_request:
-    branches: [ main, divim-patch-1 ]
-
+    branches: 
+      - main
+      - divim-patch-1
 jobs:
   build:
 
@@ -20,7 +23,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet build --no-restore –-project AzureAppDevWorkshops/Azure App Service/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj
+    - name: Publish
+      run: dotnet publish -o AzureAppDevWorkshops/Azure App Service/Tailspin.SpaceGame.Web/publish
 
