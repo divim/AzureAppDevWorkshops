@@ -2,9 +2,9 @@ name: .NET
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, divim-patch-1 ]
   pull_request:
-    branches: [ main ]
+    branches: [ main, divim-patch-1 ]
 
 jobs:
   build:
